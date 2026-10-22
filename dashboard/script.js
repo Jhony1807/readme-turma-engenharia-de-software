@@ -29,11 +29,11 @@ async function githubRequest(endpoint) {
     }
   );
 
-  if (!response.ok) {
+   if (!response.ok) {
     throw new Error(
       response.status === 403
-        ? "Limite temporário da API do GitHub. Tente novamente mais tarde."
-        : `O GitHub retornou o erro ${response.status}.`
+        ? `Limite temporário da API do GitHub: ${endpoint}`
+        : `Erro ${response.status} na consulta: ${endpoint || "repositório"}`
     );
   }
 
