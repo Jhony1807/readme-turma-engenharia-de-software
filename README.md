@@ -9,6 +9,15 @@
 <p align="center"><em>Uma turma apresentada como um projeto de software.<br>Sem sistema pronto, mas com muito código sendo escrito, errado, corrigido e reescrito.</em></p>
 
 ---
+📊 Painel de Evolução da Turma
+
+Acompanhe a atividade do nosso repositório, as contribuições e o progresso do projeto.
+
+<p align="center">
+  <a href="https://brunotibellio.github.io/readme-turma-engenharia-de-software/">
+    <strong>🚀 Acessar o Dashboard da Turma</strong>
+  </a>
+</p>
 
 ```bash
 $ ./iniciar-semestre.sh
