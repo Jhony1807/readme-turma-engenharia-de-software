@@ -1,1 +1,78 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0d1117">
+  <title>Painel da Turma | Engenharia de Software</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../">
+      <span class="brand-icon">{"</>"}</span>
+      <span>Engenharia de Software</span>
+    </a>
+    <span class="semester">1º semestre · Noturno</span>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <p class="eyebrow">NOSSA JORNADA EM TECNOLOGIA</p>
+      <h1>Painel de evolução <span>da turma</span></h1>
+      <p class="intro">Cada contribuição conta. Acompanhe nossa jornada de aprendizado, um commit de cada vez.</p>
+      <div class="hero-actions">
+        <span class="live-dot">Dados públicos do GitHub</span>
+        <button id="refresh-button" type="button">↻ Atualizar dados</button>
+      </div>
+      <p id="status" class="status" aria-live="polite">Preparando consulta ao GitHub...</p>
+    </section>
+
+    <section class="stats-grid" aria-label="Estatísticas do repositório">
+      <article class="stat-card">
+        <span class="stat-label">Commits recentes</span>
+        <strong id="commit-count">—</strong>
+        <span class="stat-note">Últimos 100 registros consultáveis</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Colaboradores</span>
+        <strong id="contributor-count">—</strong>
+        <span class="stat-note">Pessoas com commits identificados</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Pull Requests abertos</span>
+        <strong id="pr-count">—</strong>
+        <span class="stat-note">Contribuições em revisão</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Estrelas</span>
+        <strong id="star-count">—</strong>
+        <span class="stat-note">Reconhecimento do projeto</span>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">ATIVIDADE</p>
+          <h2>Contribuições recentes</h2>
+        </div>
+        <span class="tag">Ao vivo via API</span>
+      </div>
+      <div id="activity-list" class="activity-list">
+        <p class="empty-state">Carregando contribuições...</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>Feito pela turma de Engenharia de Software · Noturno</p>
+      <a href="https://github.com/brunoTibellio/readme-turma-engenharia-de-software">
+        Ver repositório no GitHub ↗
+      </a>
+    </footer>
+  </main>
+</body>
+</html>
+
