@@ -234,8 +234,11 @@ Alguém da turma coloca no repositório pra você.
 
 <!-- [PERSONALIZAR] Cada pessoa adiciona o próprio nome (ou @usuário do GitHub) se quiser. Exemplo: - Nome ou @usuario -->
 
-- _Seu nome pode estar aqui._
-
+- Bruno Gomes Tibellio;
+- Gabriel Marques Lopes;
+- Erick Andrade de peder;
+- Murilo Domingues Saes;
+- Mateus de Lima Monteiro;
 ---
 
 ## 📝 Nota
