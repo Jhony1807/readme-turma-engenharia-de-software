@@ -241,6 +241,7 @@ Alguém da turma coloca no repositório pra você.
 - Erick Andrade de Peder; <a href="https://www.linkedin.com/in/erick-andrade/" target="_blank">linkedin.com/in/erick-andrade</a>
 - Murilo Domingues Saes; <a href= "https://www.linkedin.com/in/murilo-saes/" target="_blank">linkedin.com/in/murilo-saes</a>
 - Mateus de Lima Monteiro; <a href="https://www.linkedin.com/in/mateus-lima-monteiro/" target="_blank">linkedin.com/in/mateus-lima-monteiro</a>
+- Caio Rian Reis da Silva; <a href="https://www.linkedin.com/in/caio-rian/" target="_blank">linkedin.com/in/caio-rian<a/>
 ---
 
 ## 📝 Nota
