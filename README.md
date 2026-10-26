@@ -234,13 +234,13 @@ Alguém da turma coloca no repositório pra você.
 
 <!-- [PERSONALIZAR] Cada pessoa adiciona o próprio nome (ou @usuário do GitHub) se quiser. Exemplo: - Nome ou @usuario -->
 
-- Bruno Gomes Tibellio;
+- Bruno Gomes Tibellio; <a href="https://www.linkedin.com/in/bruno-tibellio/" target="_blank"> </a>
 - Jonata Alves Borsari; <a href="https://www.linkedin.com/in/jonata-alves-borsari/" target="_blank"></a>
-- Joao Frazon Zanon 
-- Gabriel Marques Lopes;
-- Erick Andrade de peder;
-- Murilo Domingues Saes;
-- Mateus de Lima Monteiro;
+- Joao Frazon Zanon; <a href="https://github.com/joaofzanon-XIN" target="_blank"></a>
+- Gabriel Marques Lopes; <a href="https://www.linkedin.com/in/gabriel-marques-lopes/" target="_blank"></a>
+- Erick Andrade de peder; <a href="https://www.linkedin.com/in/erick-andrade/" target="_blank"></a>
+- Murilo Domingues Saes; <a href= "https://www.linkedin.com/in/murilo-saes/" target="_blank"></a>
+- Mateus de Lima Monteiro; <a href="https://www.linkedin.com/in/mateus-lima-monteiro/" target="_blank"></a>
 ---
 
 ## 📝 Nota
