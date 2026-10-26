@@ -235,12 +235,12 @@ Alguém da turma coloca no repositório pra você.
 <!-- [PERSONALIZAR] Cada pessoa adiciona o próprio nome (ou @usuário do GitHub) se quiser. Exemplo: - Nome ou @usuario -->
 
 - Bruno Gomes Tibellio; <a href="https://www.linkedin.com/in/bruno-tibellio/" target="_blank">linkedin.com/in/bruno-tibellio</a>
-- Jonata Alves Borsari; <a href="https://www.linkedin.com/in/jonata-alves-borsari/" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR</a>
-- Joao Frazon Zanon; <a href="https://github.com/joaofzanon-XIN" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR</a>
-- Gabriel Marques Lopes; <a href="https://www.linkedin.com/in/gabriel-marques-lopes/" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR
-- Erick Andrade de Peder; <a href="https://www.linkedin.com/in/erick-andrade/" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR</a>
-- Murilo Domingues Saes; <a href= "https://www.linkedin.com/in/murilo-saes/" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR</a>
-- Mateus de Lima Monteiro; <a href="https://www.linkedin.com/in/mateus-lima-monteiro/" target="_blank">CLIQUE AQUI E VAMOS SE CONECTAR</a>
+- Jonata Alves Borsari; <a href="https://www.linkedin.com/in/jonata-alves-borsari/" target="_blank">linkedin.com/in/jonata-alves-borsari</a>
+- Joao Frazon Zanon; <a href="https://www.linkedin.com/in/jo%C3%A3o-fraz%C3%A3o-zanon/" target="_blank">linkedin.com/in/joao-frazao-zanon</a>
+- Gabriel Marques Lopes; <a href="https://www.linkedin.com/in/gabriel-marques-lopes/" target="_blank">linkedin.com/in/gabriel-marques-lopes</a>
+- Erick Andrade de Peder; <a href="https://www.linkedin.com/in/erick-andrade/" target="_blank">linkedin.com/in/erick-andrade</a>
+- Murilo Domingues Saes; <a href= "https://www.linkedin.com/in/murilo-saes/" target="_blank">linkedin.com/in/murilo-saes</a>
+- Mateus de Lima Monteiro; <a href="https://www.linkedin.com/in/mateus-lima-monteiro/" target="_blank">linkedin.com/in/mateus-lima-monteiro</a>
 ---
 
 ## 📝 Nota
