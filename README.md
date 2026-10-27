@@ -243,6 +243,7 @@ Alguém da turma coloca no repositório pra você.
 - Mateus de Lima Monteiro; <a href="https://www.linkedin.com/in/mateus-lima-monteiro/" target="_blank">linkedin.com/in/mateus-lima-monteiro</a>
 - Caio Rian Reis da Silva; <a href="https://www.linkedin.com/in/caio-rian/" target="_blank">linkedin.com/in/caio-rian<a/>
 - Lucas Lucas Bitencourt; <a href="https://www.linkedin.com/in/bitencourtlucas" target="_blank">linkedin.com/in/bitencourtlucas</a>
+- Izabely Dos Santos; <a href="https://www.linkedin.com/in/izabely-santos" target="_blank">linkedin.com/in/izabely-santos<a/>
 ---
 
 ## 📝 Nota
