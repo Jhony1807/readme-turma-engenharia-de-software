@@ -244,8 +244,8 @@ Alguém da turma coloca no repositório pra você.
 - Caio Rian Reis da Silva; <a href="https://www.linkedin.com/in/caio-rian/" target="_blank">linkedin.com/in/caio-rian<a/>
 - Lucas Lucas Bitencourt; <a href="https://www.linkedin.com/in/bitencourtlucas" target="_blank">linkedin.com/in/bitencourtlucas</a>
 - Izabely Dos Santos; <a href="https://www.linkedin.com/in/izabely-santos" target="_blank">linkedin.com/in/izabely-santos<a/>
-- Everton Santos Lima; <a href =" https://www.linkedin.com/in/everton-santos-lima" target=" _blank">linkedin.com/in/everton-santos-lima<a/>
-- <a href =" https://www.linkedin.com/in/addiel-anthonny-arguedas-sangalli" target=" _blank"> linkedin.com/in/addiel-anthonny-arguedas-sangalli<a/>
+- Everton Santos Lima; <a href="https://www.linkedin.com/in/everton-santos-lima/" target=" _blank">linkedin.com/in/everton-santos-lima<a/>
+- Addiel Anthonny Arguedas; <a href="https://www.linkedin.com/in/addiel-anthonny-arguedas-sangalli/" target=" _blank">linkedin.com/in/addiel-anthonny-arguedas-sangalli<a/>
 ---
 
 ## 📝 Nota
